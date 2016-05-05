@@ -1,0 +1,19 @@
+{
+  "name": "learn-redux",
+  "version": "1.0.0",
+  "description": "All about Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Redux"
+  ],
+  "author": "Long Thanh Tran <long.thanh.tran@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "expect": "^1.19.0",
+    "redux": "^3.5.2"
+  }
+}
